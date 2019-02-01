@@ -15,5 +15,5 @@ The **test_maps** folder contains some sample maps but you can add additional on
 - click and drage mouse: rotate
 - i key: zoom in
 - o key: zoom out
-- + key: increase height
-- - key: decrease height
+- \+ key: increase height
+- \- key: decrease height
