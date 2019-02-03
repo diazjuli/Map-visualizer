@@ -6,7 +6,7 @@ A 3D height-map renderer with additional features including: rotation, zooming i
 
 ## How to run ##
 
-Clone this repository and run *make* in the root. Then run the compiled binary *./fdf filename* . filename will be the the map that you want to project.
+Clone this repository and run *make* in the root. Then execute the compiled binary *./fdf filename* . filename will be the the map that you want to project(e.g., *./fdf test_maps/pyramide.fdf*)
 The **test_maps** folder contains some sample maps but you can add additional ones if you wish.
 
 ## controls ##
