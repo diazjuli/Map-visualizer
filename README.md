@@ -14,8 +14,8 @@ The **test_maps** folder contains some sample maps but you can add additional on
 - :arrow_backward: move left
 - :arrow_forward: move right
 - :arrow_down:move down
-- click and drage mouse: rotate
-- i key: zoom in
-- o key: zoom out
-- \+ key: increase height
-- \- key: decrease height
+- click and drag mouse: rotate
+- i: zoom in
+- o: zoom out
+- \+ : increase height
+- \- : decrease height
